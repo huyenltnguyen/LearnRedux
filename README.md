@@ -2,11 +2,7 @@
 
 [Modern React with Redux](https://www.udemy.com/react-redux/) Course exercise
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### CLI
+#### How to start:
 
 ```
 > npm install
