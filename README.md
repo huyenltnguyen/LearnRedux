@@ -2,7 +2,7 @@
 
 [Modern React with Redux](https://www.udemy.com/react-redux/) Course exercise
 
-#### How to start:
+#### CLI
 
 ```
 > npm install
